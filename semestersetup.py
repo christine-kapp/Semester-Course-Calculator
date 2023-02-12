@@ -51,7 +51,7 @@ def main():
 
     if cs_math == "1022":
 
-        print("The next reccomended Math course is 1041: Calculis I")
+        print("The next reccomended Math course is 1041: Calculus I")
 
     if cs_math == "1041":
 
